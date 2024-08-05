@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "applicationInfo": {
+    "description": "",
+    "name": ""
+  },
+  "architecture": {},
+  "dataflow": {},
+  "assumptions": [],
+  "mitigations": [],
+  "assumptionLinks": [],
+  "mitigationLinks": [],
+  "threats": []
+}
